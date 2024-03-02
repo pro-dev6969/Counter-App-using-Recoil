@@ -1,2 +1,2 @@
-### Counter Application 
-# using recoil state management library
+# Counter Application 
+### using recoil state management library
